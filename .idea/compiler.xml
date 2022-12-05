@@ -10,6 +10,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="advent-of-code-2022" />
+        <module name="adventofcode" />
       </profile>
     </annotationProcessing>
   </component>
