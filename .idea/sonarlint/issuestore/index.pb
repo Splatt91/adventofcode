@@ -15,3 +15,7 @@ R
 "src/main/java/day/five/Crates.java,6\9\6906f1f26fc6b5c6e95ea375fa2e24cfd9628563
 Y
 )src/main/java/utility/ResourceReader.java,f\9\f9d477cd266611cb05ae7076d965901893872d03
+X
+(src/main/java/day/seven/Directories.java,3\4\343b3db95e6104b99916a498e0826421d066f4f1
+V
+&src/main/java/day/four/Assigments.java,4\b\4bb2f9296481ed41520ddebe015335ca05f5d0b4
