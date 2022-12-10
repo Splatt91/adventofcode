@@ -19,3 +19,9 @@ X
 (src/main/java/day/seven/Directories.java,3\4\343b3db95e6104b99916a498e0826421d066f4f1
 V
 &src/main/java/day/four/Assigments.java,4\b\4bb2f9296481ed41520ddebe015335ca05f5d0b4
+S
+#src/main/java/eight/Quadcopter.java,0\7\07a2713521122b87c096567959b2698340da9b01
+P
+ src/main/java/day/nine/Rope.java,b\0\b028fc55f3d25f1081a6404740cac66a378d1481
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0

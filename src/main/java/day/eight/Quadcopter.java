@@ -1,4 +1,4 @@
-package eight;
+package day.eight;
 
 import utility.ResourceReader;
 
