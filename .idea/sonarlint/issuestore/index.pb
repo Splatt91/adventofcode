@@ -11,10 +11,6 @@ O
 src/main/java/day/two/Hand.java,b\e\beeacb40b7869c442491fa28c8e6a53bb8fa8207
 Q
 !src/main/java/day/six/Signal.java,3\a\3a3b59fc2310e07ab09d5a1b6f233abdd875c16a
-R
-"src/main/java/day/five/Crates.java,6\9\6906f1f26fc6b5c6e95ea375fa2e24cfd9628563
-Y
-)src/main/java/utility/ResourceReader.java,f\9\f9d477cd266611cb05ae7076d965901893872d03
 X
 (src/main/java/day/seven/Directories.java,3\4\343b3db95e6104b99916a498e0826421d066f4f1
 V
@@ -23,5 +19,3 @@ P
  src/main/java/day/nine/Rope.java,b\0\b028fc55f3d25f1081a6404740cac66a378d1481
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
-^
-.src/main/java/day/ten/CommunicationSystem.java,a\9\a99a0e5815013484ed5ed0fbfd2fc7324917675c
